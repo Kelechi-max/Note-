@@ -1,0 +1,6 @@
+{
+  "name": "N Notes",
+  "description": "A dark minimalistic note-taking app with a clean aesthetic, abstract 'N' branding, file and image cards, a secure recycle bin, and easy widget integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
